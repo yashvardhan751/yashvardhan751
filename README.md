@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Yashvardhan Sharma 👋</h1>
 
-![Profile Banner](https://your-banner-image-url.com) <!-- Optional Banner Image -->
 
 ## 🚀 About Me
 - 🎓 Final Year CSE Student (CGPA: 8.9)
 - 💻 Passionate about **Web Development** & **Machine Learning**
 - 🤖 Currently learning **AI & ML**
 - 🔍 Looking to collaborate on **Computer Science Projects**
-- 📩 Reach me at **sharnayashvardhan751@gmail.com**
+- 📩 Reach me at **sharmayashvardhan751@gmail.com**
 
 ---
 
@@ -49,7 +48,7 @@
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashvardhan751)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashvardhan751)
-[![Portfolio](https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link.com)
+
 
 ---
 
