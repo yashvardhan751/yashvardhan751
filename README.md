@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-- 🎓 Final Year CSE Student (CGPA: 8.9)
+- 🎓 CSE -2025 Graduate
 - 💻 Passionate about **Web Development** & **Machine Learning**
 - 🤖 Currently learning **AI & ML**
 - 🔍 Looking to collaborate on **Computer Science Projects**
